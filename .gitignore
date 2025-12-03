@@ -1,9 +1,12 @@
 .venv
-.css/
-.img/
-.js/
-.search/
-.webfonts/
+about-me/site/
 *.html
 *.xml
-.about-me/site*
+*.xml.gz
+
+# Ignore built/site assets in repository root
+/css/
+/img/
+/js/
+/search/
+/webfonts/
