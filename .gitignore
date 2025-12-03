@@ -1,1 +1,9 @@
 .venv
+.css/
+.img/
+.js/
+.search/
+.webfonts/
+*.html
+*.xml
+.about-me/site*

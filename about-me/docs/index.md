@@ -1,5 +1,7 @@
 # About me
 
+*to be added later...*
+
 ## Certifications 
 
 Certified Kubernetes Administrator (CKA)
